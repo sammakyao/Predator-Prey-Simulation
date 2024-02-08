@@ -1,0 +1,16 @@
+Q1. What outcomes and patterns do you observe in your simulation?
+A1. Compared to my last simulation, I love this more and I have seen a similar pattern, the only difference now is
+   some animals are killed.
+
+Q2. How does adding the special component affect the behavior of your simulation?
+A2. It replicates the real world where predators eat prey and prey eat grass, which my last simulation did not have.
+
+Q3. What aspects seem to be the most realistic?
+A3. The aspect of prey eating grass, this is realistic because both animals have something to feed from, i.e. predators
+    with prey and prey with grass.
+
+Q4. What are the main shortcomings of your simulation?
+A4. As of now, I do not see any huge shortcomings, I am satisfied with the simulation.
+
+Q5. Given more time (and/or knowledge and/or resources), how could you improve your simulation?
+A5. I would try to implement the optional parts of the assignment and see how that would look like.
