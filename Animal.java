@@ -1,14 +1,3 @@
-/*
-
-`Inspired from Professor Ben's Code, I have decided to use his code for my simulation 2.0, because
- although my simulation worked for the previous simulation, I didn't add and know how to add the predation rate
- or what happens when there are no prey left in my previous simulation, which is what is expected in the real world.
- Part of Ben's code that I liked was the organization, in my previous sim I only had animal class and respective
- Hare and Lynx which would make it easier for me to twist the predation rate, eat methods.
-
- */
-
-
 import java.util.ArrayList;
 
 public abstract class Animal {
